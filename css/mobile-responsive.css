@@ -1,0 +1,541 @@
+/** Media Query **/
+
+@media only screen and (max-width: 380px) {
+	.common-testimonial-section-download-app {
+		top: 58% !important;
+	}
+	.inner-thankyou-msg p{
+		margin-top: 15px;
+	}
+	.common-testimonial-section-download-app2 {
+		margin-top: 0;
+	}
+	.apply-now-btn {
+		max-width: 220px;
+		height: 40px;
+		line-height: 40px;
+		font-size: 14px;
+		margin-top: 0;
+	}
+	.custom-radio-btn span {
+		margin: 0;
+	}
+	.list-documents-section ul li {
+		font-size: 18px;
+	}
+
+	.inner-form-element {
+		padding: 20px 20px;
+	}
+	.cmn-form-group input,
+	.cmn-form-group select {
+		margin-bottom: 15px;
+		font-size: 12px;
+	}
+	.otp-veriication-text-field p {
+		margin: 0;
+		margin-bottom: 20px;
+		width: 100%;
+		line-height: 22px;
+	}
+	.otp-veriication-text-field h2 {
+		font-size: 17px;
+		margin-bottom: 15px;
+	}
+	.field-otp-section button,.field-otp-section2 button {
+		padding: 10px 25px;
+	}
+	.otp-veriication-text-field h2 {
+		margin-bottom: 15px;
+	}
+	.btn-check-eligibilty{
+		font-size: 10px;
+		padding: 10px 8px;
+	}
+	.check-eligibilty-section input{
+		padding: 0 10px;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.inner-thankyou-msg p {
+		font-size: 16px;
+		line-height: 22px;
+		padding: 10px 20px;
+		margin-top: 10px;
+		margin-bottom: 5px;
+	}
+	.cmn-icon-field {
+		margin-bottom: 30px;
+	}
+	.icon-field-div h3 {
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.banner-content-section {
+		margin-top: 40px;
+	}
+	.banner-content-section p {
+		font-size: 14px;
+	}
+	.apply-loan {
+		font-size: 14px;
+	}
+	.banner-content-section ul li {
+		font-size: 15px;
+	}
+	.bank-statement-section p {
+		font-size: 14px;
+		font-weight: 350;
+	}
+	.common-checkbox-element {
+		margin-left: 5px;
+	}
+	.custom-radio-btn span {
+		font-size: 8px;
+	}
+	.inner-form-element {
+		padding: 15px 15px;
+	}
+	.cmn-form-group select {
+		background-position: 90% 22px;
+	}
+	.cmn-form-group input,
+	.cmn-form-group select {
+		margin-bottom: 15px;
+		font-size: 12px;
+	}
+	.inner-form-element h3 {
+		font-size: 14px;
+		margin-left: 5px;
+	}
+	.terms-and-condition label {
+		font-size: 8px;
+	}
+	.form-heading h3 {
+		font-size: 20px;
+	}
+	.form-heading h2 {
+		font-size: 20px;
+		font-weight: 400;
+		margin-bottom: 10px;
+	}
+	.form-bg ul li,.form-bg2 ul li {
+		font-size: 12px;
+	}
+	.list-documents-section ul li {
+		font-size: 14px;
+		line-height: 25px;
+	}
+	section {
+		padding: 30px 0;
+	}
+	.inner-thankyou-msg h2 span.user-name {
+		color: #1fabcc;
+		font-size: 25px;
+	}
+	.inner-thankyou-msg h2 {
+		font-size: 20px;
+		font-weight: 350;
+		line-height: 30px;
+	}
+	.list-documents-section ul li {
+		font-size: 14px;
+	}
+	.common-testimonial-section p {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.common-testimonial-section h2 {
+		font-size: 20px;
+	}
+	.contact-email-section h1 {
+		font-size: 20px;
+	}
+	.contact-email-section h3 {
+		font-size: 18px;
+	}
+	.common-testimonial-section-download-app {
+		top: 55% !important;
+	}
+	.parent-loan-section {
+		padding-top: 60px;
+	}
+	.not-elligible-section h3 {
+		font-size: 16px;
+		line-height: 22px;
+	}
+	.gold-loan-section {
+		padding-top: 15px;
+	}
+	.text-btn-field-loan h3 {
+		font-size: 16px;
+		line-height: 25px;
+	}
+	.text-btn-field-loan h2 {
+		font-size: 25px;
+	}
+	.apply-gold-loan-btn {
+		max-width: 250px;
+		height: 45px;
+		line-height: 45px;
+		font-size: 14px;
+		margin-top: 25px;
+	}
+	/* .apply-now-btn {
+		max-width: 250px;
+		height: 45px;
+		line-height: 45px;
+		font-size: 14px;
+		margin-top: 15px;
+	} */
+	.apply-btn-footer-paragaraph p {
+		margin-top: 0;
+		padding:0;
+	}
+	/* .common-testimonial-section-download-app2 {
+		margin-top: 20px;
+	} */
+	.sponsor-bank-logo {
+		width: 80px;
+	}
+	.bank-amount-details {
+		margin-left: 15px;
+	}
+
+	.bank-amount-details ul li {
+		font-size: 12px;
+		line-height: 24px;
+	}
+	.regenrate-otp-field p a {
+		display: block;
+	}
+	.field-otp-section button,.field-otp-section2 button {
+		padding: 10px 15px;
+		font-size: 12px;
+	}
+	.check-eligibilty-section input {
+		padding: 0 4px;
+	}
+	.btn-check-eligibilty{
+		padding: 10px 4px;
+		font-weight: 300;
+	}
+
+}
+
+@media (min-width: 768px) {
+	.form-heading {
+		margin-top: 30px;
+	}
+
+	.common-testimonial-section {
+		text-align: center;
+		margin: 0;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		-webkit-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+	.cmn-modal-dialog {
+	   padding-top: 7%;
+   }
+
+	.parent-loan-section {
+		text-align: center;
+		margin: 0;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		-webkit-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+	.common-testimonial-section-download-app {
+		text-align: center;
+		margin: 0;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		-webkit-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+	.inner-thankyou-msg p {
+		padding: 10px 0;
+	}
+	.list-documents-section ul li {
+		margin-left: 0;
+	}
+	.inner-form-element {
+		max-width: 650px;
+	}
+	.list-documents-section p {
+		margin-top: 15px;
+		text-align: center;
+	}
+	.list-documents-section ul li {
+		margin-left: 75px;
+		text-align: left;
+	}
+	.banner-bg {
+		background: url(../image/Banner-bg.png);
+	}
+	.banner-bg2 {
+		background: url(../image/banner-bg-section2.png);
+	}
+	.banner-bg3 {
+		background: url(../image/home-bg3.png);
+	}
+	.cmn-section-padding {
+		padding: 40px 0;
+	}
+	.banner-content-section {
+		margin-top: 100px;
+	}
+	.banner-content-section h2 {
+		font-size: 45px;
+		margin-bottom: 25px;
+	}
+	.banner-content-section p {
+		font-size: 18px;
+	}
+	.banner-content-section ul {
+		margin-top: 30px;
+	}
+	.banner-content-section ul li {
+		display: inline-block;
+		font-size: 18px;
+		margin-right: 20px;
+		font-weight: 300;
+	}
+	.banner-content-section ul li:before {
+		display: inline-block;
+		width: 10px;
+	}
+	.btn-check-eligibilty {
+		font-size: 14px;
+		color: #fff;
+		border-radius: 0;
+		background: #1fabcc;
+		border: 1px solid #ffffff;
+		padding: 10px 15px;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+		border-left: none;
+	}
+	.check-eligibilty-section {
+		margin-top: 30px;
+	}
+	.cmn-section-padding .col-sm-5 {
+		-ms-flex: 0 0 100%;
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.cmn-icon-field::after {
+		position: absolute;
+		content: "";
+		width: 118px;
+		height: 2px;
+		background: #fff;
+		right: 0px;
+		top: 60px;
+	}
+	.cmn-icon-field.not-border-content::after {
+		display: none;
+	}
+	.type-of-process {
+		text-align: left;
+	}
+	.cmn-icon-field::after {
+		position: absolute;
+		content: "";
+		width: 118px;
+		height: 2px;
+		background: #fff;
+		right: 70px;
+		top: 60px;
+		display: block;
+	}
+	.scroll-top-field{
+		bottom: 10px;
+		right: 30px;
+	}
+	.common-testimonial-section-download-app2 h2 {
+		text-align: center;
+		margin-bottom: 30px;
+		font-size: 30px;
+		line-height: 45px;
+	}
+	.common-testimonial-section-download-app2 h2 span.user-name {
+		font-size: 35px;
+	}
+	.parent-layout-bank{
+		padding: 20px 10px;
+	}
+	.view-more-btn {
+		margin-bottom: 20px;
+		margin-top: 12px;
+	}
+	.apply-btn-footer-paragaraph p{
+		font-size: 20px;
+		padding: 9px 0 5px;
+		margin-top: 20px;
+	}
+
+	.banner-content-section {
+		margin-top:50px;
+	}
+}
+
+@media (min-width: 992px) {
+	.form-heading {
+		margin-top: 10px;
+	}
+	.form-bg{
+		height: 100%;
+	}
+	.cmn-icon-field::after {
+		position: absolute;
+		content: "";
+		width: 118px;
+		height: 2px;
+		background: #fff;
+		right: 70px;
+		top: 60px;
+	}
+	.cmn-icon-field.not-border-content::after {
+		display: none;
+	}
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-weight: 700;
+		margin-bottom: 15px;
+	}
+	.social-media-footer-icon {
+		margin-bottom: 0px;
+	}
+	.third-part-pages {
+		margin-bottom: 0px;
+	}
+	.third-party-pages-bank {
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+	h1 {
+		font-size: 32px;
+	}
+	p {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	li {
+		font-size: 20px;
+	}
+	a {
+		font-size: 12px;
+		text-decoration: none;
+	}
+	.contact-email-section h3 {
+		font-size: 40px;
+	}
+	.contact-email-section h1 {
+		font-size: 98px;
+	}
+	.footer-logo-pnl {
+		max-width: 200px;
+	}
+	.section-title {
+		font-size: 36px;
+	}
+	.banking-partner-section ul li {
+		width: 15%;
+	}
+	.banking-partner-section ul li img {
+		max-width: 130px;
+	}
+	section {
+		padding: 60px 0;
+	}
+	.parent-loan-section {
+		text-align: center;
+		padding-top: 60px;
+	}
+	.apply-gold-loan-btn {
+		height: 50px;
+		line-height: 50px;
+		margin-top: 37px;
+		max-width: 300px;
+		font-size: 16px;
+	}
+	.common-testimonial-section {
+		text-align: center;
+		margin: 0;
+		position: absolute;
+		left: 50%;
+		top: 50%;
+		-webkit-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+	.common-testimonial-section-download-app {
+		text-align: center;
+		margin: 0;
+		position: absolute;
+		left: 50%;
+		top: 58%;
+		-webkit-transform: translate(-50%, -50%);
+		transform: translate(-50%, -50%);
+	}
+	.list-documents-section ul li {
+		margin-left: 320px;
+	}
+	.banner-content-section {
+		margin-top: 100px;
+	}
+	.banner-content-section h2 {
+		font-size: 65px;
+		margin-bottom: 25px;
+	}
+	.banner-content-section p {
+		font-size: 18px;
+	}
+	.banner-content-section ul {
+		margin-top: 30px;
+	}
+	.banner-content-section ul li {
+		display: inline-block;
+		font-size: 18px;
+		margin-right: 20px;
+	}
+	.banner-content-section ul li:before {
+		display: inline-block;
+		width: 10px;
+	}
+	.cmn-section-padding .col-sm-5 {
+		-ms-flex: 0 0 41.666667%;
+		flex: 0 0 41.666667%;
+		max-width: 41.666667%;
+	}
+	
+}
+
+@media (min-width: 1300px) {
+	.form-bg.test-form-bg {
+		height: 100%;
+	}
+	.form-bg.form-bg-loan-form{
+		height: 100vh;
+	}
+}
+
+@media (min-width: 1400px) {
+	.form-bg.test-form-bg {
+		height: 100%;
+	}
+	.form-bg.form-bg-loan-form{
+		height: 100vh;
+	}
+}

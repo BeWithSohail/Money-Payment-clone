@@ -1,0 +1,5 @@
+Color Code
+
+Pages Text Color :- #1fabcc
+Page1 Text Color :- #cb031b
+Pages Background :- #141414

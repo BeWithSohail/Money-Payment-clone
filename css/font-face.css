@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Gotham";
+  src: url("../fonts/GothamRounded-MediumItalic.otf") format("otf"),
+       url("../fonts/GothamRounded-LightItalic.otf") format("otf"),
+       url("../fonts/GothamRoundedBold.ttf") format("ttf"),
+       url("../fonts/GothamRounded-BookItalic.otf") format("otf"),
+       url("../fonts/GothamRoundedBook.ttf") format("ttf"),
+       url("../fonts/GothamBold.ttf") format("ttf");
+}
